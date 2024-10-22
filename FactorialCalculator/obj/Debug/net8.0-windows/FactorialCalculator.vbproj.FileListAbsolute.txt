@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\FactorialCalculator\bin\Debug\net8.0-windows\FactorialCalculator.exe
+C:\Users\HELLO\Source\Repos\FactorialCalculator\bin\Debug\net8.0-windows\FactorialCalculator.deps.json
+C:\Users\HELLO\Source\Repos\FactorialCalculator\bin\Debug\net8.0-windows\FactorialCalculator.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\FactorialCalculator\bin\Debug\net8.0-windows\FactorialCalculator.dll
+C:\Users\HELLO\Source\Repos\FactorialCalculator\bin\Debug\net8.0-windows\FactorialCalculator.pdb
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.frmFactorial.resources
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.Resources.resources
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.dll
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\refint\FactorialCalculator.dll
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.pdb
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\FactorialCalculator.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\FactorialCalculator\obj\Debug\net8.0-windows\ref\FactorialCalculator.dll
